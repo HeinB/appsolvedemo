@@ -1,0 +1,2 @@
+New file added to be tracked.
+Add another line after staging the file.
